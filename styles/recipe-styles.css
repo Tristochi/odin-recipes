@@ -20,6 +20,10 @@ div.recipe-info {
     text-align: left;
 }
 
+div.recipe-ingredientes {
+    margin-bottom: 20px;
+}
+
 img {
     width: 500px;
     margin: 20px;
